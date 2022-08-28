@@ -1,0 +1,9 @@
+# Ignore artifacts:
+coverage
+dist
+build
+node_modules
+package-lock.json
+yarn.lock
+.vscode
+.angular
